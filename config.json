@@ -1,0 +1,1 @@
+{"host":"0.0.0.0","port":"3000","skin":"liberty","search_host":"127.5.5.5","search_port":"25005","owners":["theseeduser"],"disable_email":true,"protect_owner":true,"theseed_version":"4.20.0","use_external_js":"true","search_autostart":"true","disable_multithreading":"true"}
